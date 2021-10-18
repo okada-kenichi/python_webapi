@@ -7,4 +7,4 @@ def pnc(num):
         print(num)
     return
 
-pnc(13)
+pnc(11)
